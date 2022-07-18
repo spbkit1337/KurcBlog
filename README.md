@@ -26,6 +26,8 @@
 
 Ссылка на Google Disk: https://drive.google.com/drive/folders/1l6Xr4BrJEBTZEpyLOz4W_Nt3MAnU2aGO?usp=sharing
 
+Либо скачать тему которую я выложил и добавить в админке
+
 <b>Главная страница</b>
 
 ![Screenshot 2022-07-03 at 11-07-05 MishaAgency — Ещё один сайт на WordPress](https://user-images.githubusercontent.com/51737588/177031150-6aacc14a-6dbb-4d66-81f2-f1bd88fb52f5.png)
